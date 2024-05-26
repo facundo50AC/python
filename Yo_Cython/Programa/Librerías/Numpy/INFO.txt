@@ -1,0 +1,5 @@
+Conceptos Básicos de NumPy
+
+    Array NumPy: El array es la estructura de datos central en NumPy. Similar a las listas en Python, pero con muchas más funcionalidades y optimizaciones.
+    Vectorización: NumPy permite realizar operaciones en arrays completos sin la necesidad de escribir bucles explícitos. Esto se llama vectorización y es mucho más rápida que las iteraciones manuales.
+    Operaciones Matemáticas: NumPy proporciona una amplia gama de funciones matemáticas optimizadas para operar con arrays y matrices.
