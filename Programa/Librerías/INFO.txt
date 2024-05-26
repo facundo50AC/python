@@ -1,0 +1,11 @@
+Bibliotecas para Mejorar el Rendimiento en Python
+
+Aquí tienes una lista de algunas bibliotecas que pueden ayudarte a mejorar el rendimiento de tu código Python:
+
+    NumPy: Es una biblioteca fundamental para el cálculo numérico en Python, proporcionando soporte para grandes matrices y matrices multidimensionales junto con una colección de funciones matemáticas de alto nivel para operar con ellas.
+    Pandas: Ofrece estructuras de datos y herramientas de análisis de datos de alto rendimiento y fáciles de usar.
+    Cython: Permite escribir código en Python que se compila en código C, proporcionando una mejora significativa en el rendimiento.
+    Numba: Utiliza compilación Just-In-Time (JIT) para convertir funciones de Python en código máquina optimizado en tiempo de ejecución.
+    Dask: Permite realizar cálculos paralelos con estructuras de datos similares a las de Pandas, pero distribuidas y en paralelo.
+    PyPy: Es una implementación alternativa de Python que incluye un compilador Just-In-Time (JIT) que puede mejorar significativamente el rendimiento de algunos programas.
+    multiprocessing: Un módulo estándar de Python que permite la creación de procesos separados para ejecutar tareas en paralelo.
